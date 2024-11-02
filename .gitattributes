@@ -1,0 +1,2 @@
+TelVoice filter=lfs diff=lfs merge=lfs -text
+TelVoice1 filter=lfs diff=lfs merge=lfs -text
